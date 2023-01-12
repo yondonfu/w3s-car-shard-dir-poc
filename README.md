@@ -135,7 +135,7 @@ ipfs-car --list-roots playlist-dir.car
 w3 can upload add bafybeigy6qwyjq4f6bx5uhfzfrohr7rxexq6ybbv7r3727v3dekqm7vh5a bagbaieraa2nxtlb7a5jcgi2dqcq5zbkpafjkj6hyxo2gczgts3qn2aocvdxq bagbaierasoiqpvsm4cp3ylebpypgf7ovyclx4nmql6f3jqzocrxhnbhuhnwq bagbaieraz3vifi7yap7g77ahh6mlxxsecajtzfwldg23jz7madapcnmmfazq bagbaierawegh57xlogc2lrti2pzdjqnrsvv7tt7xsanjs3j5fpsqiah2mzeq
 ```
 
-The directory should be accessible at `https://w3s.link/ipfs/bafybeigy6qwyjq4f6bx5uhfzfrohr7rxexq6ybbv7r3727v3dekqm7vh5a` and ``should be listed when running`w3 ls`.
+The directory should be accessible at `https://w3s.link/ipfs/bafybeigy6qwyjq4f6bx5uhfzfrohr7rxexq6ybbv7r3727v3dekqm7vh5a` and `bafybeigy6qwyjq4f6bx5uhfzfrohr7rxexq6ybbv7r3727v3dekqm7vh5a` should be listed when running `w3 ls`.
 
 The m3u8 playlist can be used for HLS playback:
 
